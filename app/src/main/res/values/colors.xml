@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#22242E</color>
+    <color name="colorPrimaryDark">#001C1F</color>
+    <color name="colorAccent">#878B9E</color>
+    <color name="topic_eat">#30293B</color>
+    <color name="topic_drink">#323045</color>
+    <color name="topic_relax">#303845</color>
+    <color name="topic_enjoy">#29343B</color>
+    <color name="textColor">#CBCBDE</color>
+    <color name="textColorSelected">#E9E9FF</color>
+</resources>

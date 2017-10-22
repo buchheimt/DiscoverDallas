@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Styles for location items -->
+    <style name="LocationItem">
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textSize">@dimen/small_text</item>
+    </style>
+
+    <!-- Styles for topic tabs -->
+    <style name="TopicTab">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="tabTextColor">@color/textColor</item>
+        <item name="tabSelectedTextColor">@color/textColorSelected</item>
+        <item name="tabIndicatorColor">@color/textColor</item>
+    </style>
+
+</resources>
